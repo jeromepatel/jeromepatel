@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=jeromepatel&color=green&style=flat-square&label=Your+Rank)
+![](https://komarev.com/ghpvc/?username=jeromepatel&color=green&style=flat-square&label=Your+Visitor+Rank)
