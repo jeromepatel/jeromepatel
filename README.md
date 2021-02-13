@@ -17,8 +17,14 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=jeromepatel&color=green&style=flat-square&label=Your+Visitor+Rank)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39728%20lines%20of%20code-blue)
+![Jerome's GitHub](https://github-readme-stats.vercel.app/api?username=jeromepatel&count_private=true&theme=radical&show_icons=true&include_all_commits=true)
 
+![Jerome's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeromepatel&langs_count=5&layout=compact)
+
+<!--
+![Jerome's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeromepatel&layout=compact)
+
+-->
 📅 **I'm Most Productive on Thursday** 
 
 ```text
