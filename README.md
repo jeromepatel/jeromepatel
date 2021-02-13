@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!--
 ![Jerome's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeromepatel&layout=compact)
 
--->
+
 📅 **I'm Most Productive on Thursday** 
 
 ```text
@@ -37,3 +37,4 @@ Saturday     9 commits      █░░░░░░░░░░░░░░░░�
 Sunday       31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.27%
 
 ```
+-->
