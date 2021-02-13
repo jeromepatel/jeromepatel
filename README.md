@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=jeromepatel&color=green&style=flat-square&label=Your+Visitor+Rank)
 
-![Jerome's GitHub](https://github-readme-stats.vercel.app/api?username=jeromepatel&count_private=true&theme=radical&show_icons=true&include_all_commits=true)
+![Jerome's GitHub](https://github-readme-stats.vercel.app/api?username=jeromepatel&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true)
 
-![Jerome's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeromepatel&langs_count=5&layout=compact)
+![Jerome's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeromepatel&theme=tokyonight&langs_count=5&layout=compact)
 
 <!--
 ![Jerome's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeromepatel&layout=compact)
