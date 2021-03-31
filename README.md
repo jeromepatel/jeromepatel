@@ -2,11 +2,11 @@
 
 
 - 🎓 Student - Computer Science
-- 💻 OSS contributor - [Optuna](https://github.com/optuna/optuna)
+- 💻 OSS contributor - [Optuna](https://github.com/optuna/optuna), [PyTorchLightning-Bolts](https://github.com/PyTorchLightning/lightning-bolts)
 
 ## Interests
 - Machine Learning Competitions
-- Quantum Computing (Mostly Games)
+- Quantum Computing (Mostly Games and competitions)
 - Deep Neural Networks 
 
 ## Contact
