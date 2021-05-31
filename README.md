@@ -11,8 +11,8 @@
 
 ## Contact
 - LinkedIn: [Jyot Makadiya](https://www.linkedin.com/in/jyot-makadiya/)
-- Portfolio: [jeromepatel.github.io](https://jeromepatel.github.io/)
-<!--
+- Portfolio: [jeromepatel.github.io](https://jeromepatel.github.io/) (Under modifications)
+<!-- 
 **jeromepatel/jeromepatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
