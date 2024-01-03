@@ -1,17 +1,19 @@
 ### Hello There, I'm Jyot!
 
 
-- 🎓 Student - Computer Science
-- 💻 OSS contributor - [Optuna](https://github.com/optuna/optuna), [PyTorchLightning-Bolts](https://github.com/PyTorchLightning/lightning-bolts)
+- 🎓 Student - Data and Computer Science at Heidelberg University
+- 💻 Researcher - Research assistant Uni HD
+- 💻 Former OSS contributor - [Optuna](https://github.com/optuna/optuna), [PyTorchLightning-Bolts](https://github.com/PyTorchLightning/lightning-bolts)
 
 ## Interests
+- Deep learning competitions
 - Machine Learning Competitions
 - Quantum Computing (Mostly Games and competitions)
 - Deep Neural Networks 
 
 ## Contact
 - LinkedIn: [Jyot Makadiya](https://www.linkedin.com/in/jyot-makadiya/)
-- Portfolio: [jeromepatel.github.io](https://jeromepatel.github.io/) (Under contruction)
+- Portfolio: [jeromepatel.github.io](https://jeromepatel.github.io/) (Under contruction, ik it's been years)
 <!-- 
 **jeromepatel/jeromepatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
