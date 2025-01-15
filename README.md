@@ -12,10 +12,12 @@
 - Quantum Computing (and QML)
 - Deep learning competitions
 
+
+<!--
 ## Contact
 - LinkedIn: [Jyot Makadiya](https://www.linkedin.com/in/jyot-makadiya/)
 - Portfolio: [jeromepatel.github.io](https://jeromepatel.github.io/) (Under contruction, ik it's been years but procrastination...)
-<!-- 
+ 
 **jeromepatel/jeromepatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
