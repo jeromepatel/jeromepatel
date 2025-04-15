@@ -1,12 +1,12 @@
-### Hello There, I'm Jyot!
+### Hello There, I'm Jerome!
 
 
-- 🎓 Student - Data and Computer Science at Heidelberg University
-- 💻 Researcher - Research assistant @[CVL](https://github.com/vislearn)
+- 🎓 Student - Ms Data and Computer Science at Heidelberg University
+- 💻 Student Researcher - @[CVL](https://github.com/vislearn) - working on weather translation with diffusion models
 - 💻 Former OSS contributor - [Optuna](https://github.com/optuna/optuna), [PyTorchLightning-Bolts](https://github.com/PyTorchLightning/lightning-bolts)
 
-## Interests\
-- Computer Vision
+## Interests
+- Computer Vision, moved towards text-to-image models
 - Agentic Workflow and Multi-Modal LLMs
 - Generative AI (with mostly Vision but text too)
 - Quantum Computing (and QML)
